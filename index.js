@@ -4,9 +4,6 @@ const inquirer = require("inquirer");
 const generateMarkdown = require("./utils/generateMarkdown");
 
 // array of questions for user
-// const questions = [
-
-// ];
 
 const promptUser = () =>
   inquirer.prompt([
@@ -40,6 +37,11 @@ const promptUser = () =>
       type: 'input',
       name: 'contributing',
       message: 'Please enter contributing guidelines',
+    },
+    {
+      type: 'input',
+      name: 'tests',
+      message: 'Please enter the test instructions',
     },
     {
         type: 'input',

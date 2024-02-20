@@ -32,6 +32,8 @@ ${data.usage}
 ${data.licence}
 ## Contributing
 ${data.contributing}
+## Tests
+${data.tests}
 ## Questions
 https://github.com/${data.github}
 You can reach out to me at ${data.email}
