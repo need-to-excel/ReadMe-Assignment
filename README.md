@@ -13,7 +13,7 @@
 11. exported Markdown file to index.js file
 
 ## Link to the application walkthrough video
-You will need to click onto Raw 
+You will need to click onto View Raw as the media file is too large. This will enable you to export the file to your download folder where you can view it via your media player.
 https://github.com/need-to-excel/ReadMe-Assignment/blob/main/video3450637814.mp4
 
 ## Please note
