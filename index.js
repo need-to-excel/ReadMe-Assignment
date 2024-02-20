@@ -32,7 +32,7 @@ const promptUser = () =>
     },
     {
       type: 'list',
-      name: 'Licence',
+      name: 'licence',
       message: 'Please select a Licence',
       choices: ['MIT', 'GPL', 'Apache', 'None']
     },
@@ -64,8 +64,9 @@ function writeToFile(fileName, data) {
 function init() {
 promptUser().then(data => {
     console.log(data)
-    let RedMe = generateMarkdown(data)
-    console.log(RedMe)
+    let ReadMe = generateMarkdown(data)
+    console.log(ReadMe)
+    writeToFile("ReadMe2.md", ReadMe)
 })
 
 
