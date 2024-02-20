@@ -13,6 +13,7 @@
 11. exported Markdown file to index.js file
 
 ## Link to the application walkthrough video
+You will need to click onto Raw 
 https://github.com/need-to-excel/ReadMe-Assignment/blob/main/video3450637814.mp4
 
 ## Please note
