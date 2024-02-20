@@ -1,5 +1,5 @@
-# readme
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# ReadMe
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Table of content
 * [Description](#description)
 * [Installation](#installation)
@@ -9,17 +9,17 @@
 * [Questions](#questions)
 
 ## Description
-it is about generating readme file
+To generate Readme file
 ## Installation
-123
+Running in Terminal
 ## Usage
-ihg
+To note the aplication instructions
 ## Licence
-Apache
+MIT
 ## Contributing
-hgf
+Completed by Rustam A
 ## Tests
-kgjk
+Tested via Terminal
 ## Questions
 https://github.com/need-to-excel
-You can reach out to me at rush@yahoo.com
+You can reach out to me at rustam@yahoo.com
